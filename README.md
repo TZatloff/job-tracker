@@ -31,7 +31,7 @@ database relationships, and automated testing.
 | Layer           | Technology          |
 |-----------------|---------------------|
 | Framework       | FastAPI             |
-| Language        | Python 3            |
+| Language        | Python 3.13         |
 | Database        | PostgreSQL 16       |
 | Database Driver | psycopg2            |
 | Validation      | Pydantic            |
