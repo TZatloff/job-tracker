@@ -61,7 +61,7 @@ job_tracker/
 
 ### 1. Clone the repository
 
-git clone https://github.com/<your-username>/job_tracker.git
+git clone https://github.com/TZatloff/job-tracker.git
 cd job_tracker
 
 python3 -m venv venv
